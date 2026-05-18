@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/arXiv-coming_soon-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
   <img src="https://img.shields.io/badge/paper-coming_soon-6b46c1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="paper">
-  <a href="https://hdkim01.github.io/projects/3DPhysVideo/">
+  <a href="https://hwidong-kim.github.io/projects/3DPhysVideo/">
     <img src="https://img.shields.io/badge/project_page-website-1e90ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="project page">
   </a>
 </p>
