@@ -11,8 +11,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/arXiv-coming_soon-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
-  <img src="https://img.shields.io/badge/paper-coming_soon-6b46c1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="paper">
+  <a href="https://arxiv.org/abs/2605.16795">
+    <img src="https://img.shields.io/badge/arXiv-2605.16795-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
+  </a>
+  <a href="https://arxiv.org/pdf/2605.16795">
+    <img src="https://img.shields.io/badge/paper-PDF-6b46c1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="paper">
+  </a>
   <a href="https://hwidong-kim.github.io/projects/3DPhysVideo/">
     <img src="https://img.shields.io/badge/project_page-website-1e90ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="project page">
   </a>
